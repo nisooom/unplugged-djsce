@@ -2,6 +2,8 @@
 
 This repository contains all resources for our hardware hackathon project that implements an IoT system for urban management.
 
+![](pcb/output/schematic.jpeg)
+
 [Documentation](pcb/src/ERGA%20LABS.docx)
 [PPT](pcb/src/erga%20labs.pptx)
 
