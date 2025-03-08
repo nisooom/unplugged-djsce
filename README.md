@@ -5,6 +5,8 @@ This repository contains all resources for our hardware hackathon project that i
 [Documentation](pcb/src/ERGA%20LABS.docx)
 [PPT](pcb/src/erga%20labs.pptx)
 
+[Supporting Dashboard UI](https://djiot.vercel.app/)
+
 ## Project Structure
 
 ### PCB Design
